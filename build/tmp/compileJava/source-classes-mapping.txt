@@ -1,4 +1,6 @@
 com/jojoldu/bok/springboot/Application.java
  com.jojoldu.bok.springboot.Application
+com/jojoldu/bok/springboot/web/dto/HelloResponseDto.java
+ com.jojoldu.bok.springboot.web.dto.HelloResponseDto
 com/jojoldu/bok/springboot/web/HelloController.java
  com.jojoldu.bok.springboot.web.HelloController

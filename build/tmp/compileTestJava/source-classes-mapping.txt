@@ -1,2 +1,4 @@
+com/jojoldu/bok/springboot/web/dto/HelloResponseDtoTest.java
+ com.jojoldu.bok.springboot.web.dto.HelloResponseDtoTest
 com/jojoldu/bok/springboot/web/HelloControllerTest.java
  com.jojoldu.bok.springboot.web.HelloControllerTest
